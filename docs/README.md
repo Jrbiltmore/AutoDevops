@@ -35,7 +35,7 @@ Refer to the `bin/bash_repo.sh` script for automation tasks. Configuration can b
 Contributions to the AutoDevops project are welcome. Please refer to `CONTRIBUTING.md` for detailed guidelines on how to contribute.
 
 ## License
-This project is licensed under the MIT License - see the `LICENSE` file for details.
+Basically, you may use this software to create software and profit, as long as the software you create is not a reproduction of this software or concept. Thus, everyone will have equal chance to build everything the world needs.  
 
 ## Acknowledgments
 - Special thanks to all the contributors and maintainers of this project.
